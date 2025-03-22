@@ -1,0 +1,14 @@
+body{
+    font-family: sans-serif, Arial;
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #333;
+    background: url('./static/image.png') no-repeat center center fixed;
+    background-size: cover;
+
+
+}
