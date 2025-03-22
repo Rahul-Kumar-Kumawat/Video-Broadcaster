@@ -1,0 +1,10 @@
+uvicorn
+fastapi
+pyvirtualcam
+opencv-python
+ultralytics
+numpy==1.24.4
+scipy
+pyyaml
+torch==2.0.0
+torchvision==0.15.0
